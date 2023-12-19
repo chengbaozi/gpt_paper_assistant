@@ -4,6 +4,6 @@
  2. New methodological improvements to deep learning or conventional machine learning aproaches for tabular data.
     - Relevant: I am interested in new work in deep learning and machine learning applied to handling tabular data, particularly in addressing prediction and classification problems in scenarios with imbalanced samples, high proportion of missing values, and high data correlation. Especially articles where the models have a certain level of interpretability.
     - Not relevant: I am not interested in traditional methods such as XGBOOST and CATBOOST applications, nor in review-type articles.
- In suggesting papers to your friend, remember that he enjoys papers on self-supervised learning, representation learning, robotics and computer vision.
+ In suggesting papers to your friend, remember that he enjoys papers on self-supervised learning, representation learning, deep learning for tabular data, robotics and computer vision.
  Your friend also enjoys papers on video segmentation and exploration on transfer learning between modalities.
  He does not want to read papers that are about primarily applications of methods to specific domains.
