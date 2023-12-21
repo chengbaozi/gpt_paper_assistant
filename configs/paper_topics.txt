@@ -2,7 +2,7 @@
     - Relevant: papers that propose new self-supervised approaches for images, aiming to improve existing methods, or analyzing them. Usually these papers will mention a pretext task used to pretrain the neural networks resulting in higher performance when fine-tuing on the down-stream tasks.
     - Not relevant: papers that apply existing self-supervised learning to computer vision tasks in the specific field, such as medical images, remote sensing, pedestrian re-identification and so on.
  2. New methodological improvements to point-cloud registration.
-    - Relevant: papers that propose new point-cloud registration approaches for 3D data, aiming to improve existing methods, or analyzing them. I am more concerned about issues like uneven density matching, point cloud data enhancement, and basic mathematical reasoning.
+    - Relevant: papers that propose new point-cloud registration approaches for 3D data, aiming to improve existing methods, or analyzing them. I am more concerned about issues like uneven density matching, point cloud data augmentation, and basic mathematical reasoning.
     - Not relevant: I am not concerned with non-rigid point cloud registration issues.
  3. New methodological improvements to deep learning or conventional machine learning aproaches for tabular data.
     - Relevant: I am interested in new work in deep learning and machine learning applied to handling tabular data, particularly in addressing prediction and classification problems in scenarios with imbalanced samples, high proportion of missing values, and high data correlation. Especially articles where the models have a certain level of interpretability.
