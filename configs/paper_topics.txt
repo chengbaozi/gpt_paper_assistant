@@ -5,8 +5,8 @@
     - Relevant: papers that propose new point-cloud registration approaches for 3D data, aiming to improve existing methods, or analyzing them. I am more concerned about issues like uneven density matching, point cloud data augmentation, and basic mathematical reasoning.
     - Not relevant: I am not concerned with non-rigid point cloud registration issues.
  3. New methodological advancements in applying machine learning techniques to tabular data.
-    - Relevant: I am interested in new work in deep learning and machine learning applied to handling tabular data, particularly in addressing prediction and classification problems in scenarios with imbalanced samples, high proportion of missing values, and high data correlation. Especially articles where the models have a certain level of interpretability.
-    - Not relevant: I am not interested in traditional methods such as XGBOOST and CATBOOST applications, nor in review-type articles.
+    - Relevant: I am interested in new work in deep learning and machine learning applied to handling tabular data, particularly in addressing prediction and classification problems in scenarios with imbalanced samples, high proportion of missing values, and too much feature redundancy. Especially articles where the models have a certain level of interpretability for tabular data.
+    - Not relevant: I am not interested in review-type articles.
  In suggesting papers to your friend, remember that he enjoys papers on self-supervised learning, representation learning, deep learning for tabular data, robotics and computer vision.
  Your friend also enjoys papers on video segmentation and exploration on transfer learning between modalities.
  He does not want to read papers that are about primarily applications of methods to specific domains.
